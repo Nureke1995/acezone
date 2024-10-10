@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) 2024 Codenath (https://codepen.io/Codenath/pen/MWQwMOd)
+Copyright (c) 2024 Codenath (https://github.com/Nureke1995/acezone.git)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
